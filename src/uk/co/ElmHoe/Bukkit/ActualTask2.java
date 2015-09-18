@@ -26,11 +26,11 @@ public class ActualTask2 {
 			e1.printStackTrace();
 		}
 		String strName = "Joshua Fennell";
-		String strNum = "255";
-		String strStreet = " Bromley Lane";
+		String strNum = "177";
+		String strStreet = " yus";
 		String strCity = "Kingswinford";
 		String strCounty = "West-Midlands";
-		String strPostalcode = "dy68tb".toUpperCase();
+		String strPostalcode = "pen15z".toUpperCase();
 		String header = "------------------------------";
 		String newln = "\n";
 		Scanner sc = new Scanner(System.in);
